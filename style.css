@@ -290,7 +290,7 @@ footer {
     transition: transform 0.4s ease;
 }
 
-/* Hover කළ විට සිදුවන වෙනස්කම් */
+
 .gallery-item:hover {
     border-color: #ff6600; 
 }
